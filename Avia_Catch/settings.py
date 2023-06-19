@@ -1,3 +1,2 @@
 """constants"""
 
-TOKEN = '6097413237:AAGOi8t7KOdQ2UxFg12ZKHV5Lk0TtgJ0Dyg'
